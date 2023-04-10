@@ -1,0 +1,3 @@
+The utility analyzes the autonomous systems through which packets pass from the user's host to the specified ip. For each ip found the number of the autonomous system, country, province, city and ISP are displayed.
+
+The program is started with the command python <path to program file> <ip address or domain name>
